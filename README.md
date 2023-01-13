@@ -1,1 +1,1 @@
-# Coding-Ninjas-iPod-Mini-Project
+# Coding-Ninjas-iPod
